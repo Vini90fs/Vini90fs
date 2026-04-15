@@ -7,6 +7,8 @@
 🚀 Em constante evolução na área de tecnologia  
 📍 Belo Horizonte - MG  
 
+
+
 ---
 
 ## 🧠 Sobre mim
