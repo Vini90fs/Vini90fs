@@ -11,7 +11,7 @@
 
 ## 🧠 Sobre mim
 
-Tenho grande interesse em **Inteligência Artificial e Machine Learning**, área na qual venho direcionando meus estudos.  
+Tenho grande interesse em **Inteligência Artificial e Machine Learning**, área na qual venho ampliando meus estudos.  
 Também possuo base em desenvolvimento com linguagens como **C, C++, Java e Python**, além de conhecimentos em **Frontend**.
 
 Busco sempre aprender mais e desenvolver projetos que fortaleçam minhas habilidades técnicas e práticas.
@@ -37,7 +37,7 @@ Busco sempre aprender mais e desenvolver projetos que fortaleçam minhas habilid
 Projeto voltado para controle de reservas, clientes e organização interna.
 
 📎 **Repositório:**  
-https://github.com/SEU_USERNAME/NOME_DO_REPOSITORIO
+https://github.com/Vini90fs/hotel-management-system-c.git
 
 ---
 
