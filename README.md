@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vinicius Cardoso
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" align="right">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px" align="right">
 
 🎓 Estudante de Engenharia de Software  
 💡 Focado em Inteligência Artificial e Machine Learning  
