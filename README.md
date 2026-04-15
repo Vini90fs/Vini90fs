@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [English](./README_en.md)
+
 # 👋 Olá, eu sou o Vinicius Cardoso
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="170px" align="right">
