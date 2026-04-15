@@ -1,4 +1,4 @@
-🇧🇷 Português | 🇺🇸 [English](./README_en.md)
+| Português | [English](./README_en.md) |
 
 # 👋 Olá, eu sou o Vinicius Cardoso
 
