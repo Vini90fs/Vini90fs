@@ -4,14 +4,17 @@
 
 🎓 Estudante de Engenharia de Software  
 💡 Focado em Inteligência Artificial e Machine Learning  
-🚀 Sempre em busca de evolução na área de tecnologia  
+🚀 Em constante evolução na área de tecnologia  
 📍 Belo Horizonte - MG  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e estou direcionando meus estudos principalmente para **IA e Machine Learning**, sem deixar de lado uma base sólida em desenvolvimento com linguagens como C, C++, Java e Python, além de conhecimentos em Frontend.
+Tenho grande interesse em **Inteligência Artificial e Machine Learning**, área na qual venho direcionando meus estudos.  
+Também possuo base em desenvolvimento com linguagens como **C, C++, Java e Python**, além de conhecimentos em **Frontend**.
+
+Busco sempre aprender mais e desenvolver projetos que fortaleçam minhas habilidades técnicas e práticas.
 
 ---
 
@@ -30,30 +33,22 @@ Sou apaixonado por tecnologia e estou direcionando meus estudos principalmente p
 
 ## 🚀 Projetos
 
-🔹 **Sistema de Gerenciamento de Hotel**  
-→ Projeto voltado para controle de reservas, clientes e organização interna  
+### 🔹 Sistema de Gerenciamento de Hotel
+Projeto voltado para controle de reservas, clientes e organização interna.
 
-🔹 **Sistema de Cadastro de Veículos (Concessionária)** *(em desenvolvimento)*  
-→ Sistema para gerenciamento de veículos e informações de estoque  
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/SEU_USERNAME">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=default"/>
-  </a>
-</div>
+📎 **Repositório:**  
+https://github.com/SEU_USERNAME/NOME_DO_REPOSITORIO
 
 ---
 
-## 🔥 Sequência de Contribuições
+### 🔹 Sistema de Cadastro de Veículos (Concessionária)
+Sistema para gerenciamento de veículos e controle de estoque *(em desenvolvimento)*.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=default"/>
-</div>
+---
+
+## 🎯 Objetivo
+
+Atualmente estou focado em evoluir minhas habilidades em **IA e Machine Learning**, buscando oportunidades que me permitam aplicar esse conhecimento na prática e crescer profissionalmente na área de tecnologia.
 
 ---
 
@@ -64,11 +59,3 @@ Sou apaixonado por tecnologia e estou direcionando meus estudos principalmente p
   <a href=""><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
-
----
-
-## 👀 Visualizações do perfil
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue" alt="Profile views"/> 
-</p>
