@@ -17,7 +17,7 @@ Meu trabalho mais sólido está em **C** (programação estruturada, modulariza�
 
 Uso IA generativa (Claude, Copilot) como ferramenta de engenharia, para refatoração, revisão e exploração de alternativas, sempre validando o que entra no código. Leio e escrevo documentação técnica em inglês (B2–C1).
 
-## Stack
+## 🛠️ Stack
 
 | Área | Tecnologias |
 |---|---|
@@ -26,7 +26,7 @@ Uso IA generativa (Claude, Copilot) como ferramenta de engenharia, para refatora
 | **Banco de Dados** | MySQL · PostgreSQL |
 | **Ferramentas & IA** | Git · GitHub · GCC · Claude · Copilot · Codex |
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### [Username Checker](https://github.com/Vini90fs/username-checker) — Python
 Ferramenta de OSINT em linha de comando que verifica se um username existe em plataformas públicas.
@@ -47,7 +47,13 @@ Sistema de gestão hoteleira com persistência em arquivos.
 
 **Trabalho em equipe:** [Projeto Interdisciplinar — Fake News (PUC Minas)](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20241-g9-fake-news)
 
-## Contato
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vini90fs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini90fs&layout=compact&theme=tokyonight" alt="Top Languages" width="45%">
+</p>
+
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-soares-cardoso-7b6ab2287)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini90fs@gmail.com)
