@@ -19,7 +19,7 @@ I use generative AI (Claude, Copilot) as an engineering tool for refactoring, re
 
 Currently looking for a **software development internship**.
 
-## Stack
+## 🛠️ Stack
 
 | Area | Technologies |
 |---|---|
@@ -28,7 +28,7 @@ Currently looking for a **software development internship**.
 | **Databases** | MySQL · PostgreSQL |
 | **Tools & AI** | Git · GitHub · GCC · Claude · Copilot · Codex |
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [Username Checker](https://github.com/Vini90fs/username-checker) — Python
 OSINT command-line tool that checks whether a username exists on public platforms.
@@ -49,7 +49,13 @@ Hotel management system with file-based persistence.
 
 **Teamwork:** [Interdisciplinary Project — Fake News (PUC Minas)](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20241-g9-fake-news)
 
-## Contact
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vini90fs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini90fs&layout=compact&theme=tokyonight" alt="Top Languages" width="45%">
+</p>
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-soares-cardoso-7b6ab2287)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini90fs@gmail.com)
