@@ -23,9 +23,10 @@ Currently looking for a **software development internship**.
 
 | Area | Technologies |
 |---|---|
-| **Core** | C · Python |
-| **Modeling (coursework)** | Java · C++ · OOP |
-| **Tools** | Git · GitHub · GCC |
+| **Core & Systems** | C · C++ · Python |
+| **Web & Back-End** | Java · Spring Boot · JavaScript · RESTful APIs |
+| **Databases** | MySQL · PostgreSQL |
+| **Tools & AI** | Git · GitHub · GCC · Claude · Copilot · Codex |
 
 ## Featured Projects
 
