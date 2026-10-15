@@ -17,15 +17,14 @@ Meu trabalho mais sólido está em **C** (programação estruturada, modulariza�
 
 Uso IA generativa (Claude, Copilot) como ferramenta de engenharia, para refatoração, revisão e exploração de alternativas, sempre validando o que entra no código. Leio e escrevo documentação técnica em inglês (B2–C1).
 
-Atualmente busco um **estágio em desenvolvimento de software**.
-
 ## Stack
 
 | Área | Tecnologias |
 |---|---|
-| **Núcleo** | C · Python |
-| **Modelagem (formação)** | Java · C++ · OOP |
-| **Ferramentas** | Git · GitHub · GCC |
+| **Núcleo** | C · C++ · Python |
+| **Web & Back-End** | Java · Spring Boot · JavaScript · RESTful APIs |
+| **Banco de Dados** | MySQL · PostgreSQL |
+| **Ferramentas & IA** | Git · GitHub · GCC · Claude · Copilot · Codex |
 
 ## Projetos em Destaque
 
