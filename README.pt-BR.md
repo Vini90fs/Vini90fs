@@ -1,69 +1,54 @@
-| English | [Português](./README.md) |
+<div align="center">
 
-# 👋 Hi, I'm Vinicius Cardoso
+# Vinicius Cardoso
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="170px" align="right">
+**Engenharia de Software · PUC Minas** — Fundamentos de Sistemas e OOP
+Belo Horizonte, MG · 🇺🇸 [English](README.md) | 🇧🇷 Português
 
-🎓 Software Engineering Student  
-💡 Focused on Artificial Intelligence and Machine Learning  
-🚀 Continuously improving my skills in technology  
-📍 Belo Horizonte, Brazil  
-
----
-
-## 🧠 About Me
-
-I am passionate about technology and currently focusing my studies on **Artificial Intelligence and Machine Learning**.
-
-I also have a solid foundation in programming with **C, C++, Java, and Python**, along with knowledge in **Frontend development**.
-
-I am always looking to learn, improve, and build projects that strengthen my practical and technical skills.
-
----
-
-## 🛠️ Technologies & Tools
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ---
 
-## 🚀 Projects
+## Sobre
 
-### 🔹 Hotel Management System  
-Project focused on managing reservations, customers, and internal operations.
+Estudo Engenharia de Software com foco em **fundamentos**: como o dado é representado, validado e persistido antes de qualquer framework.
 
-📎 **Repository:**  
-https://github.com/Vini90fs/NOME_DO_REPOSITORIO
+Meu trabalho mais sólido está em **C** (programação estruturada, modularização em `.h/.c`, persistência em arquivo) e **Python** (automação e OSINT). Modelo sistemas com **OOP em Java e C++**.
 
----
+Uso IA generativa (Claude, Copilot) como ferramenta de engenharia, para refatoração, revisão e exploração de alternativas, sempre validando o que entra no código. Leio e escrevo documentação técnica em inglês (B2–C1).
 
-### 🔹 Vehicle Registration System (Dealership)  
-System for managing vehicles and inventory *(in development)*.
+Atualmente busco um **estágio em desenvolvimento de software**.
 
----
+## Stack
 
-## 🎯 Goal
+| Área | Tecnologias |
+|---|---|
+| **Núcleo** | C · Python |
+| **Modelagem (formação)** | Java · C++ · OOP |
+| **Ferramentas** | Git · GitHub · GCC |
 
-Currently focused on developing my skills in **Artificial Intelligence and Machine Learning**, aiming to apply this knowledge in real-world projects and grow professionally in the tech field.
+## Projetos em Destaque
 
----
+### [Username Checker](https://github.com/Vini90fs/username-checker) — Python
+Ferramenta de OSINT em linha de comando que verifica se um username existe em plataformas públicas.
+- **Verificação por plataforma:** APIs públicas (GitHub, Bluesky, Twitch) e heurísticas de HTML (Pinterest, Telegram)
+- **Falsos positivos:** HTTP 200 nunca é tratado como prova; sites que bloqueiam viram link para verificação manual
+- **Estrutura extensível:** `main.py` · `checker.py` · `sites.py`
 
-## 🌐 Contact
+### [Dealership](https://github.com/Vini90fs/Dealership) — C
+Sistema de cadastro de veículos para concessionária, em terminal.
+- **Código modular:** `veiculo`, `arquivo` e `main`, com `struct` própria
+- **Validação:** placa (formatos antigo e Mercosul) e chassi de 17 caracteres, sem duplicidade
+- **Persistência:** arquivo texto com campos delimitados
 
-<div> 
-  <a href="https://www.linkedin.com/in/vinicius-fernandes-soares-cardoso-7b6ab2287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Vini90fs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
+### [Hotel Management](https://github.com/Vini90fs/hotel-management-system-c) — C
+Sistema de gestão hoteleira com persistência em arquivos.
+- **Cinco módulos:** hóspedes, quartos, estadias, funcionários e fidelidade
+- **Persistência:** `fopen` / `fread` / `fwrite`
 
-📧 Email: vini90fs@gmail.com
+**Trabalho em equipe:** [Projeto Interdisciplinar — Fake News (PUC Minas)](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20241-g9-fake-news)
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-soares-cardoso-7b6ab2287)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini90fs@gmail.com)
