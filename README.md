@@ -52,12 +52,3 @@ Hotel management system with file-based persistence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-soares-cardoso-7b6ab2287)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini90fs@gmail.com)
-  <a href="https://www.linkedin.com/in/vinicius-fernandes-soares-cardoso-7b6ab2287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Vini90fs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
-📧 **Email:** vini90fs@gmail.com
